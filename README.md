@@ -13,7 +13,7 @@
 
 # Functionalities Provided
 
-Refer to the ppt attached
+Refer to the pdf attached
 
 
 # Frameworks Used
